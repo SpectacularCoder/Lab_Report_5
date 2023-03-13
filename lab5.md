@@ -30,7 +30,8 @@ This command searches for empty files in the subdirectory lib/
 $ find ./lib/ -empty
 ```
 **Output:**
-The specific files are returned, however this time it dies not include docsearch-main. Instead, it starts off the output with ./lib this time
+The specific files are returned, however this time it dies not include docsearch-main. Instead, it starts off the output with ./lib this time\
+```
 #code block
 ./lib/docsearch/.git/objects/info
 ./lib/docsearch/.git/refs/tags
@@ -38,4 +39,4 @@ The specific files are returned, however this time it dies not include docsearch
 ./lib/docsearch/Kauffman_sizes.txt
 ```
 
-***Source***: **[geekforgeeks grep command in Unix/Linux](https://www.geeksforgeeks.org/grep-command-in-unixlinux/)**
+***Source***: **[geekforgeeks grep command in Unix/Linux](https://www.geeksforgeeks.org/find-command-in-linux-with-examples/)**
