@@ -37,4 +37,4 @@ The specific files are returned, however this time it dies not include docsearch
 ./lib/docsearch/berliztChar.txt
 ./lib/docsearch/Kauffman_sizes.txt
 ```
-***Source***: **[geekforgeeks grep command in Unix/Linux](https://www.geeksforgeeks.org/find-command-in-linux-with-examples/)**
+***Source***: **[geekforgeeks grep command in Unix/Linux](https://www.geeksforgeeks.org/grep-command-in-unixlinux/)**
