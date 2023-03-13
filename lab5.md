@@ -23,3 +23,18 @@ The files inside this directory that are empty is returned
 ./docsearch-main/lib/docsearch/Kauffman_sizes.txt
 ```
 **Example 2:**
+**Command Line Argument:**
+This command searches for empty files in the subdirectory lib/
+```
+#code block
+$ find ./lib/ -empty
+```
+**Output:**
+The specific files are returned, however this time it dies not include docsearch-main. Instead, it starts off the output with ./lib this time
+#code block
+./lib/docsearch/.git/objects/info
+./lib/docsearch/.git/refs/tags
+./lib/docsearch/berliztChar.txt
+./lib/docsearch/Kauffman_sizes.txt
+```
+***Source***: **[geekforgeeks grep command in Unix/Linux](https://www.geeksforgeeks.org/find-command-in-linux-with-examples/)**
