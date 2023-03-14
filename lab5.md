@@ -558,7 +558,7 @@ The specific files are returned, the command does not utilize a + sign to denote
 ./docsearch-main/written_2/travel_guides/berlitz2/Vallarta-WhereToGo.txt
 ```
 
-***Source***: **[Geekflare's 40 Examples of Using Find Command]([(https://geekflare.com/linux-find-commands/)])**
+***Source***: **[Geekflare's 40 Examples of Using Find Command](https://geekflare.com/linux-find-commands/)**
 
 ### Command 3: 
 **$ find . -mtime -(days) -type f** this command searches for files that has been modified within a certain time period
@@ -877,7 +877,7 @@ The specific files are returned, however this time it is searching for directori
 ./docsearch-main/written_2/travel_guides/berlitz2
 
 ```
-***Source***: **[Geekflare's 40 Examples of Using Find Command]([(https://geekflare.com/linux-find-commands/)])**
+***Source***: **[Geekflare's 40 Examples of Using Find Command](https://geekflare.com/linux-find-commands/)**
 
 ### Command 4: 
 **$ find . -amin -(time in minutes) -type f** this command searches for files accessed within a certain minute
@@ -1474,4 +1474,4 @@ The specific files are returned, however this it is looking for directories and 
 ./docsearch-main/written_2/travel_guides/berlitz1
 ./docsearch-main/written_2/travel_guides/berlitz2
 ```
-***Source***: **[Geekflare's 40 Examples of Using Find Command]([(https://geekflare.com/linux-find-commands/)])**
+***Source***: **[Geekflare's 40 Examples of Using Find Command](https://geekflare.com/linux-find-commands/)**
